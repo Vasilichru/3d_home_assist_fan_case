@@ -4,3 +4,5 @@
 ready to FDM print
 
 CAD: FreeCAD
+
+my tg channel: https://t.me/wts_3d
